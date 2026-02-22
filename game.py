@@ -1,5 +1,6 @@
 import numpy as np
 
+b = 0
 high = 101
 down = 1
 number = np.random.randint(down, high)
