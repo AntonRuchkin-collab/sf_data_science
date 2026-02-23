@@ -17,7 +17,8 @@ SF homework
 [6. Выводы](https://github.com/AntonRuchkin-collab/sf_data_science/blob/main/projekt_0/README.md#Выводы)
 
 ### Описание проекта
-Программа об угадывании случайно заданного числа в данном интервале
+Программа об угадывании случайно заданного числа в данном интервале и выичислении среднего 
+количества итераций используемого алгоритма на массиве из 10 000 случайных чисел.
 
 :arrow_up:[к оглавлению](https://github.com/AntonRuchkin-collab/sf_data_science/blob/main/projekt_0/README.md#Оглавление)
 
